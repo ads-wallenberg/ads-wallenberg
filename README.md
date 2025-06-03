@@ -2,9 +2,9 @@
 <img src="https://devemdobro.com/wp-content/webp-express/webp-images/uploads/2023/02/PNG-Semana-do-zero-ao-programador-contratado-300x125.png.webp" width="200px"/>
 <h2>Futuras Habilidades</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <h2>Conecte-se comigo</h2>
 <div>
